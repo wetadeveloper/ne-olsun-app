@@ -148,8 +148,8 @@ Detaylı bilgi için: [Gizlilik Politikası](PRIVACY.md)
 - ✅ Özel temalar
 - ✅ Öncelikli destek
 
-**Aylık**: ₺29,99
-**Yıllık**: ₺199,99 (%44 indirim)
+**Aylık**: 59,99 ₺
+**Yıllık**: 399,99 ₺ (%44 indirim)
 
 ## 📱 Sistem Gereksinimleri
 

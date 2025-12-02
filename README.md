@@ -1,7 +1,7 @@
 # 🎯 Ne Olsun - Ortak Karar Ruleti
 
 <p align="center">
-  <img src="../assets/logo/neolsunlogoapp.png" alt="Ne Olsun Logo" width="200"/>
+  <img src="/assets/logo/neolsunlogoapp.png" alt="Ne Olsun Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -64,9 +64,9 @@ Her kategori için özel filtre seçenekleri:
 
 <p align="center">
   <img src="/assets/screenshots/lobby.png" alt="Ana Ekran" width="200"/>
-  <img src="../assets/screenshots/roomscreate.png" alt="Oda Oluştur" width="200"/>
-  <img src="../assets/screenshots/filter.png" alt="Filtre" width="200"/>
-  <img src="../assets/screenshots/invitation.png" alt="Davet Kodu" width="200"/>
+  <img src="/assets/screenshots/roomscreate.png" alt="Oda Oluştur" width="200"/>
+  <img src="/assets/screenshots/filter.png" alt="Filtre" width="200"/>
+  <img src="/assets/screenshots/invitation.png" alt="Davet Kodu" width="200"/>
 </p>
 
 <p align="center">
